@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fragment_container" type="id" />
+    <item name="popup_view" type="id" />
+    <item name="popup_image" type="id" />
+    <item name="popup_text" type="id" />
+
+    <item name="main_fragment_start_button" type="id" />
+    <item name="main_fragment_desc_text" type="id" />
+</resources>

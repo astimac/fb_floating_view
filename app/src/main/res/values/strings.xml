@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FacebookPopUpsExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="message_service_running">Pop up view is visible.</string>
+    <string name="message_service_stopped">Pop up view is gone.</string>
+
+    <string name="button_show">Show Pop up</string>
+    <string name="button_hide">Hide Pop up</string>
+</resources>
